@@ -29,3 +29,7 @@ Display
     https://developer.mozilla.org/pt-BR/d...
     https://css-tricks.com/almanac/proper...
     -->
+
+
+Boz sizing
+    Pede ao Css para unir o padding e a border a largura e a altura 
