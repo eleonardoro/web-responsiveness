@@ -32,4 +32,9 @@ Display
 
 
 Boz sizing
-    Pede ao Css para unir o padding e a border a largura e a altura 
+    Pede ao Css para unir o padding e a border a largura e a altura
+
+
+Media Queries
+    definir regras que seu css deve utilizar dependendo da resolução de tela
+    conseguimos alterar os elementos de acordo com o tamanho de tela que temos
